@@ -1,2 +1,3 @@
-# svelte-base
-Simple Svelte Configuration
+# Bebeloper
+
+Bebeloper.com a simple Svelte site.

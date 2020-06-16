@@ -1,7 +1,7 @@
 {
-  "name": "svelte-base",
+  "name": "bebeloper",
   "version": "1.0.0",
-  "description": "Simple Svelte Configuration",
+  "description": "Bebeloper a Simple Svelte Site",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/svelte-base.git"
+    "url": "git+https://github.com/gndx/bebeloper.git"
   },
   "keywords": [
     "JavaScript",
     "Svelte"
   ],
-  "author": "Oscar Barajas <oscar@arepa.dev>",
+  "author": "Oscar Barajas <oscar@gndx.dev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gndx/svelte-base/issues"
+    "url": "https://github.com/gndx/bebeloper/issues"
   },
-  "homepage": "https://github.com/gndx/svelte-base#readme",
+  "homepage": "https://github.com/gndx/bebeloper#readme",
   "dependencies": {
     "svelte": "^3.22.2"
   },
