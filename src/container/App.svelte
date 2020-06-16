@@ -93,6 +93,9 @@
   p {
     font-size: 25px;
   }
+  .App-container {
+    height: 100%;
+  }
   .App-content {
     display: block;
   }
@@ -100,7 +103,7 @@
     width: 50%;
   }
   figure {
-    text-align: center;
+    display: none
   }
 }
 
