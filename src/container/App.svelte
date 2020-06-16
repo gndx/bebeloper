@@ -104,7 +104,11 @@
     <div class="App-content">
       <div class="App-title">
         <h1>Oscar Barajas Jr.</h1>
-        <p>Días estimados para nacer: {days}</p>
+        {#if days === 0}
+          <p>¡Ha nacido!</p>
+        {:else}
+          <p>Días estimados para nacer: {days}</p>
+        {/if}
       </div>
       <figure>
         <img src="https://arepa.s3.amazonaws.com/bgbebeloper.png" alt="Oscar Barajas Jr.">
