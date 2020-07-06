@@ -63,7 +63,7 @@
     text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
   }
   p {
-    font-size: 30px;
+    font-size: 40px;
     margin: 0;
     padding: 0;
     letter-spacing: 1.2px;
@@ -132,12 +132,10 @@
       <div class="App-title">
         <h1>Oscar Barajas Jr.</h1>
         {#if days === 0}
-          <p>¡Ha nacido!</p>
+          <p>¡He nacido! 👶 6/7/20</p>
         {:else}
           <p>Días estimados para nacer: {days}</p>
-        {/if}
-        <br>
-        <!-- Con mucho cariño de @iosamuel y @nani_kika 💙 -->
+                  <!-- Con mucho cariño de @iosamuel y @nani_kika 💙 -->
         <svg class:stop="{stop}" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.0 (4035a4fb49, 2020-05-01)" sodipodi:docname="Emojione_1F9301.svg" id="svg30" version="1.1" enable-background="new 0 0 64 64" viewBox="0 0 64 64">
           <defs id="defs34">
             <linearGradient id="linearGradient93" inkscape:collect="always">
@@ -168,6 +166,7 @@
           <path id="path52" d="m 23.030498,46.876233 c -0.500547,-0.201672 -0.991086,-0.28973 -1.619048,-0.290641 -0.379376,-5.5e-4 -0.598973,0.01625 -0.918233,0.07026 -0.216861,0.03669 -0.205864,0.04048 -0.299025,-0.103245 -0.322804,-0.498027 0.0066,-1.098501 0.749004,-1.36537 0.261725,-0.09408 0.589071,-0.154592 0.944445,-0.174584 l 0.15873,-0.0089 -0.126984,0.04517 c -0.346434,0.123231 -0.606644,0.269672 -0.790639,0.444953 -0.185507,0.176723 -0.288692,0.482751 -0.200553,0.594802 0.0445,0.05657 0.148716,0.08451 0.425859,0.114202 0.794847,0.08514 1.116495,0.179194 1.526727,0.446426 0.09582,0.06242 0.364003,0.283332 0.364003,0.299845 0,0.01226 -0.01893,0.0058 -0.214286,-0.07289 z" style="fill:#ff9955;stroke-width:0.015873"/>
           <path id="path54" d="m 21.117622,53.363988 c -0.234358,-0.02722 -0.582189,-0.106606 -0.797498,-0.182019 -0.188855,-0.06615 -0.685284,-0.308827 -0.667704,-0.326407 0.0049,-0.0049 0.08829,0.01112 0.185406,0.03551 1.249624,0.313835 3.035531,0.257142 4.913063,-0.155962 0.390384,-0.08589 1.089997,-0.266152 1.209867,-0.311727 l 0.05844,-0.02222 V 49.42627 c 0,-1.636192 0.0048,-2.974894 0.01073,-2.974894 0.0059,0 0.06644,0.02732 0.134532,0.06072 0.102889,0.05046 0.12554,0.07227 0.134063,0.129075 0.0056,0.0376 0.06682,1.305791 0.135947,2.818214 0.06913,1.512423 0.131634,2.846404 0.138899,2.964403 l 0.01321,0.214544 -0.233182,0.0926 c -0.884177,0.351117 -2.081299,0.558104 -3.6677,0.634158 -0.538715,0.02583 -1.341057,0.02526 -1.568066,-0.0011 z" style="fill:#ff9955;stroke-width:0.0224478"/>
         </svg>
+        {/if}
       </div>
       <figure>
         <img src="https://arepa.s3.amazonaws.com/bgbebeloper.png" alt="Oscar Barajas Jr.">
