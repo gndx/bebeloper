@@ -132,9 +132,9 @@
       <div class="App-title">
         <h1>Oscar Barajas Jr.</h1>
         {#if days === 0}
-          <p>¡He nacido! 👶 6/7/20</p>
+          <p>¡He nacido! 👶 6/7/20 7:50 AM</p>
         {:else}
-          <p>¡He nacido! 👶 6/7/20</p>
+          <p>¡He nacido! 👶 6/7/20 7:50 AM</p>
         {/if}
       </div>
       <figure>
