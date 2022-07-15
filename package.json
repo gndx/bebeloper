@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/gndx/bebeloper#readme",
   "dependencies": {
-    "svelte": "^3.22.2"
+    "svelte": "^3.49.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
